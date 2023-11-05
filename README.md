@@ -8,6 +8,6 @@
  ## The Navigation
  My first Project for the Mononocle was a simple navigation so i can have multiple files on my device and decide on the run which one i wanna execute.
 
-[Image of the menu ui]()
+![Image of the menu ui](https://github.com/Slender4fun/Mononocle/blob/main/Media/readme/MenuUi.jpeg)
  
  Is basic functional. 
