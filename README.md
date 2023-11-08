@@ -13,3 +13,11 @@
 </p>
  
  Is basic functional. 
+
+
+ ## How to use
+
+ You use this like every other code for the monocle:
+ - Go to the [developers platform](https://repl.brilliant.xyz/) or get the VS Code plugin also from Brilliant Labs.
+ - Connect to your monocle by taking it out of the chargin dock and pressing connect on your pc/smartphone
+ - use the "upload" button on the webinterface or the "brilliant labs: build" command to get the files on the device
