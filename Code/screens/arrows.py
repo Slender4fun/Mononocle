@@ -3,6 +3,9 @@ import display as d
 
 class arrows:
 	screen=[
-		d.Polygon([9,351,41,351,25,390], d.BLUE),
-		d.Polygon([578,355,578,385,628,370], d.BLUE),
+		d.Polygon([4,354,36,354,20,393], d.BLUE),
+		d.Polygon([582,361,582,391,632,376], d.BLUE),
+		d.Line(36, 385, 48, 353, d.BLUE, thickness=3),
+		d.Polygon([97,358,54,374,98,386], d.BLUE),
+		d.Text('1s', 103, 356, d.BLUE, justify=d.TOP_LEFT),
 	]## dont't remove this #

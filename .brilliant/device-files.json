@@ -1,8 +1,7 @@
 {
 	"/Code/main.py": "main.py",
-	"/Code/screens/logo.py": "screens/logo.py",
 	"/Code/screens/arrows.py": "screens/arrows.py",
-	"/Code/projects/experiment/experiment.py": "projects/experiment/experiment.py",
-	"/Code/projects/project_1/project_1.py": "projects/project_1/project_1.py",
-	"/Code/projects/test/funnyName.py": "projects/test/funnyName.py"
+	"/Code/screens/logo.py": "screens/logo.py",
+	"/Code/projects/battery_status/battery_status.py": "projects/battery_status/battery_status.py",
+	"/Code/projects/wipeDevice/cleaner.py": "projects/wipeDevice/cleaner.py"
 }
